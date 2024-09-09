@@ -4,4 +4,3 @@ zenek
 franek
 misiek
 celina
-Tadeusz
