@@ -3,3 +3,6 @@ tomek
 zenek
 franek
 misiek
+tomasz
+tadeusz
+wojtek
