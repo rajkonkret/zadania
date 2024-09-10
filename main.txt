@@ -4,3 +4,4 @@ zenek
 franek
 misiek
 celina
+tekst nowy
